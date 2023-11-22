@@ -1,2 +1,11 @@
-# ui-test-laravel
-i was tasked to implement a laravel dashboard home page based on a figma design
+
+## About this project
+
+This is a UI Test to implement a design from figma, The following are the technologies to be used
+
+- Laravel
+- jQuery
+- Bootstrap
+- HTML
+- Javascript
+
