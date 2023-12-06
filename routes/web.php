@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.dashboard.home');
 });
+
+Route::get('/transactions', function () {
+    return view('pages.dashboard.transactions');
+});
